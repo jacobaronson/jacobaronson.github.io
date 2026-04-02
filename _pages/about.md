@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# ![Banner](../images/cca_banner.jpg "Emerging Military Technologies")
+<!--- ![Banner](../images/cca_banner.jpg "Emerging Military Technologies") -->
 
 I am currently an Assistant Research Professor at the University of Maryland, where I am affiliated with the Department of Government and Politics and the Center for International Development and Conflict Management.
 
