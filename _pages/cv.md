@@ -12,4 +12,6 @@ redirect_from:
 
 Curriculum Vitae (short version):
 
-<iframe src="../files/cv.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<object data="../files/cv.pdf" type="application/pdf" width="100%" height="800px">
+  <p>Your browser doesn't support inline PDFs. <a href="../files/cv.pdf">Download my CV here.</a></p>
+</object>
