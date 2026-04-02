@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 header:
-  image: /images/cca_banner.jpg
+  image: ../images/cca_banner.jpg
 author_profile: true
 redirect_from: 
   - /about/
