@@ -12,6 +12,6 @@ redirect_from:
 
 Curriculum Vitae (short version):
 
-<object data="../files/cv.pdf#navpanes=0" type="application/pdf" width="100%" style="height: 90vh">
+<object data="../files/cv.pdf#navpanes=0&scrollbar=1&zoom=page-width" type="application/pdf" width="100%" style="height: 90vh">
   <p><a href="../files/cv.pdf">Download my CV here.</a></p>
 </object>
