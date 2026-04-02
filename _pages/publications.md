@@ -10,9 +10,9 @@ author_profile: true
 
 ## Publications
 
-"Rebel and State Armed Force Size in Internal Conflicts," **Jacob Aronson** and Paul Huth. In *Peace and Conflict 2017*, edited by David Backer, Ravinder Bhavnani, and Paul Huth. New York: Routledge, 2017.
+"Attacks on History: The Causes of Cultural Heritage Damage During Armed Conflict," **Jacob Aronson**, Deniz Cil, Paul K. Huth, and Brian I. Daniels. *Nationalism and Ethnic Politics*, 2025.
 
-"Making Use of History: The Effects of US Use of Force Short of War," **Jacob Aronson**, Daniel Tuke, Paul Huth, and Melanie Sisson. In *Military Coercion and US Foreign Policy*, 2020.
+"Detecting Damage to Cultural Heritage during Armed Conflict Using the Case of Ukraine," Deniz Cil, Hayden F. Bassett, **Jacob Aronson**, Madeleine Gunter-Bassett, William Welsh, Katharyn Hanson, Corine Wegener, and Brian I. Daniels. *Nationalism and Ethnic Politics*, 2025.
 
 "The Tyranny of Supply: Natural Resources and Rebel Territorial Control," **Jacob Aronson**, Michael Findley, Kyosuke Kikuta, and James Walsh. *International Studies Quarterly*, 2024.
 
@@ -20,14 +20,14 @@ author_profile: true
 
 "Identification of Deliberate Building Targeting During War: Evidence from Donetsk Oblast," **Jacob Aronson**, Deniz Cil, Hayden Bassett, and Brian I. Daniels. *Tearline*, 2024.
 
-"Attacks on History: The Causes of Cultural Heritage Damage During Armed Conflict," **Jacob Aronson**, Deniz Cil, Paul K. Huth, and Brian I. Daniels. *Nationalism and Ethnic Politics*, 2025.
+"Making Use of History: The Effects of US Use of Force Short of War," **Jacob Aronson**, Daniel Tuke, Paul Huth, and Melanie Sisson. In *Military Coercion and US Foreign Policy*, 2020.
 
-"Detecting Damage to Cultural Heritage during Armed Conflict Using the Case of Ukraine," Deniz Cil, Hayden F. Bassett, **Jacob Aronson**, Madeleine Gunter-Bassett, William Welsh, Katharyn Hanson, Corine Wegener, and Brian I. Daniels. *Nationalism and Ethnic Politics*, 2025.
+"Rebel and State Armed Force Size in Internal Conflicts," **Jacob Aronson** and Paul Huth. In *Peace and Conflict 2017*, edited by David Backer, Ravinder Bhavnani, and Paul Huth. New York: Routledge, 2017.
 
 ## Technical Reports
 
-"Gray Zone Deterrence: Success and Failure in Interstate Disputes Short of Conventional War," **Jacob Aronson** and Paul Huth. DARPA, Department of Defense, 2017-2018.
+"Damage to Cultural Heritage Sites," **Jacob Aronson**, Deniz Cil, and Hayden Bassett. Technical report series for CSO, Department of State, 2022-2023.
 
 "Population Displacement and Return in Ukraine," **Jacob Aronson**, Deniz Cil, Andrew Marx, and Forrest Pound. *Conflict Observatory*, Department of State, 2022.
 
-"Damage to Cultural Heritage Sites," **Jacob Aronson**, Deniz Cil, and Hayden Bassett. Technical report series for CSO, Department of State, 2022-2023.
+"Gray Zone Deterrence: Success and Failure in Interstate Disputes Short of Conventional War," **Jacob Aronson** and Paul Huth. DARPA, Department of Defense, 2017-2018.
