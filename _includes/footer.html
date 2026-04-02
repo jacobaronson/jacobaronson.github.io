@@ -1,5 +1,3 @@
-{% include base_path %}
-
 <p style="text-align: center;">
   {% for link in site.data.navigation.main %}
     <a href="{{ link.url }}">{{ link.title }}</a>{% unless forloop.last %} | {% endunless %}
