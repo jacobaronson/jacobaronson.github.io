@@ -8,7 +8,7 @@ author_profile: true
   <img src="../images/cca_banner.jpg" alt="Emerging Military Technologies" style="display: block; margin: 0 auto; border-radius: 15px;">
 </p>
 
-## Publications
+## Academic Articles
 
 "Attacks on History: The Causes of Cultural Heritage Damage During Armed Conflict," **Jacob Aronson**, Deniz Cil, Paul K. Huth, and Brian I. Daniels. *Nationalism and Ethnic Politics*, 2025.
 
