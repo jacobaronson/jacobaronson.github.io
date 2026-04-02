@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--- ![Banner](../images/cca_banner.jpg "Emerging Military Technologies") -->
 <p align = "center">
   <img src="../images/cca_banner.jpg" alt="Emerging Military Technologies" style="display: block; margin: 0 auto; border-radius: 15px;">
 </p>
