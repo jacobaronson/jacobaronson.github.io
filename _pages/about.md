@@ -10,8 +10,8 @@ redirect_from:
   <img src="../images/cca_banner.jpg" alt="Emerging Military Technologies" style="display: block; margin: 0 auto; border-radius: 15px;">
 </p>
 
-I am currently an Assistant Research Professor at the University of Maryland, where I am affiliated with the Department of Government and Politics and the Center for International Development and Conflict Management.
+I am an Assistant Research Professor at the University of Maryland, affiliated with the Department of Government and Politics and the Center for International Development and Conflict Management.
 
-My research focuses on the process and outcome of coercive bargaining, including the initiation of conflict, how combatants shift the bargaining range to secure more favorable conflict outcomes and terminate fighting, and the impact of fighting on civilian populations. I focus in particular on airpower, emerging military technologies such as armed drones, how rebels build and use miltiary power, the occurrence of one-sided violence, and the dynamics of population displacement. My research has been published in _International Studies Quarterly_, _Nationalism and Ethnic Politics_, _Security Studies_, _Tearline_, and other peer-reviewed journals.
+My research examines how armed actors use coercion to shape conflict outcomes, with a focus on airpower, armed drones, rebel military capacity, one-sided violence, and population displacement. I study questions spanning the initiation and termination of fighting, how combatants shift the bargaining range in their favor, and the consequences of organized violence for civilians. My work has appeared in _International Studies Quarterly_, _Nationalism and Ethnic Politics_, _Security Studies_, _Tearline_, and other peer-reviewed outlets.
 
-My work has been funded by the National Science Foundation, the Smith Richardson Foundation, the Department of Defense Minerva Research Initiative, and the Department of State Conflict Observatory. I have consulted for the Defense Advanced Research Projects Agency and the Department of State.
+My research has been funded by the National Science Foundation, the Smith Richardson Foundation, the Department of Defense Minerva Research Initiative, and the Department of State Conflict Observatory. I have consulted for the Defense Advanced Research Projects Agency and the Department of State.
