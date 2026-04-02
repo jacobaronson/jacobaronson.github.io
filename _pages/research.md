@@ -8,7 +8,7 @@ author_profile: true
   <img src="../images/cca_banner.jpg" alt="Emerging Military Technologies" style="display: block; margin: 0 auto; border-radius: 15px;">
 </p>
 
-## Research
+## Research Agendas
 
 ### Airpower, Drones, and Military Coercion
 
