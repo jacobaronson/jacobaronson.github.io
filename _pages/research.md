@@ -10,7 +10,7 @@ author_profile: true
 
 ## Research Agendas
 
-### Airpower, Drones, and Military Coercion
+### Airpower, Emerging Military Technology, and Coercion
 
 How do states use airpower, drones, and other standoff capabilities to coerce adversaries? This research program examines the development, deployment, and effectiveness of military aviation and unmanned aerial vehicles across interstate disputes, civil wars, and peacekeeping operations.
 
