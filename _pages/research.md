@@ -23,7 +23,7 @@ How do states use airpower, drones, and other standoff capabilities to coerce ad
 - "Gray Zone Deterrence: Success and Failure in Interstate Disputes Short of Conventional War," with Paul Huth. Technical reports for DARPA, DoD, 2017-2018.
 
 **Funding:**
-- "The Effectiveness of Drones, Air Power, and Modern Coercion," National Science Foundation, 2022-2025 ($418,437).
+- PI, "The Effectiveness of Drones, Air Power, and Modern Coercion," National Science Foundation, 2022-2025 ($418,437). Grant No. 2214999.
 
 ---
 
