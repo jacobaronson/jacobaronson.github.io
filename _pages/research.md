@@ -39,7 +39,7 @@ What explains variation in how rebel and states fight, fund themselves, and cont
 - "Rebel and State Armed Force Size in Internal Conflicts," with Paul Huth. In *Peace and Conflict 2017*, Routledge.
 
 **Funding:**
-- Co-PI, "Military Adaptation and War Termination," Department of Defense Minerva Research Initiative, 2024-2027 ($2,499,000). [Minerva Research Initiative canceled in 2025]
+- Co-PI, "Military Adaptation and War Termination," Department of Defense Minerva Research Initiative, 2025-2028 ($2,499,000). [Minerva Research Initiative canceled in 2025]
 - Co-PI, “Soldiers and Sanctuaries: How Armed Non-State Actors Build and Maintain Their Coercive Power,” Smith Richardson Foundation, 2017-2019 ($150,000).
 
 ---
