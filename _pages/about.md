@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align = "center">
-  <img src="../images/cca_banner.jpg" alt="Emerging Military Technologies" style="display: block; margin: 0 auto; border-radius: 15px;">
+  <img src="../images/cca_banner.jpg" alt="Emerging Military Technologies" style="display: block; margin: 0 auto; border-radius: 15px; padding: 5px; border: 1px solid #f2f3f3">
 </p>
 
 I am an Assistant Research Professor at the University of Maryland, affiliated with the Department of Government and Politics and the Center for International Development and Conflict Management.
