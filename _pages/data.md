@@ -8,6 +8,8 @@ author_profile: true
   <img src="../images/cca_banner.jpg" alt="Emerging Military Technologies" style="display: block; margin: 0 auto; border-radius: 15px; padding: 5px; border: 1px solid #f2f3f3">
 </p>
 
+NOTE: Upload of available datasets in progress.
+
 **Battles in Armed Conflict**
 
 Unit of analysis: battle. Coverage: global, 1998-2024 (1,285 battles across 53 armed conflicts, including 14 interstate and 39 intrastate).
