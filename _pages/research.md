@@ -8,6 +8,8 @@ author_profile: true
   <img src="../images/cca_banner.jpg" alt="Emerging Military Technologies" style="display: block; margin: 0 auto; border-radius: 15px; padding: 5px; border: 1px solid #f2f3f3">
 </p>
 
+NOTE: PDFs of select articles are in the process of being uploaded.
+
 ## Research Agendas
 
 ### Airpower, Emerging Military Technology, and Coercion
@@ -15,7 +17,7 @@ author_profile: true
 How do states use airpower, drones, and other standoff capabilities to coerce adversaries? This research program examines the development, deployment, and effectiveness of military aviation and unmanned aerial vehicles across interstate disputes, civil wars, and peacekeeping operations.
 
 **Publications and working papers:**
-- "Appetite for Revision: Military Drones and Interstate Disputes." *Under review.*
+- "Appetite for Revision: Military Drones and Interstate Disputes." Working paper, 2025.
 - "Flying for Peace? UN Aviation Units and Local Peacekeeping Effectiveness," with Deniz Cil. Working paper, 2025.
 - "Offshore Coercion: Deterring and Compelling Nonstate Actors using Airpower." Working paper, 2025.
 - "Reassessing the Causes of Military UAV Development using the New ARM-UAV Dataset," with Megan Lloyd. Working paper, 2025.
