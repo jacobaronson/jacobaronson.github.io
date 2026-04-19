@@ -17,7 +17,11 @@ NOTE: PDFs of select articles are in the process of being uploaded.
 How do states use airpower, drones, and other standoff capabilities to coerce adversaries? This research program examines the development, deployment, and effectiveness of military aviation and unmanned aerial vehicles across interstate disputes, civil wars, and peacekeeping operations.
 
 **Publications and working papers:**
-- "Appetite for Revision: Military Drones and Interstate Disputes." Working paper, 2025.
+- <details markdown="1"><summary>"Appetite for Revision: Military Drones and Interstate Disputes." Working paper, 2025.</summary>
+
+  **Abstract:** Why do states initiate armed coercion short of war? Existing research emphasizes the stakes of disputes, yet many forceful militarized interstate disputes occur outside the highest-salience settings. I develop a supply-side theory in which military technologies shape this margin by changing the effective price of coercion: the expected material, human, political, and retaliatory costs of using force relative to the coercive leverage force is expected to generate. Technologies that lower this price while preserving sufficient leverage to move targets expand the range of disputes states are willing to militarize. I test this argument using new data on combat drone access and forceful MID initiation from 1992 to 2016. States with combat drones initiate forceful MIDs more often. This effect attenuates when targets possess advanced air defenses and is fully offset when targets possess combat drones of their own. The effect also extends beyond classic high-salience issue settings. The findings show how the cost profile of available coercive instruments broadens the issue frontier of interstate coercion.
+
+  </details>
 - "Flying for Peace? UN Aviation Units and Local Peacekeeping Effectiveness," with Deniz Cil. Working paper, 2025.
 - "Offshore Coercion: Deterring and Compelling Nonstate Actors using Airpower." Working paper, 2025.
 - "Reassessing the Causes of Military UAV Development using the New ARM-UAV Dataset," with Megan Lloyd. Working paper, 2025.
