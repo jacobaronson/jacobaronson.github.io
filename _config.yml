@@ -27,7 +27,7 @@ author:
   name             : "Jacob Aronson"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Research Professor currently interested in coercion, airpower, emerging military technologies, and civilian harm in armed conflict."
-  location         : "College Park, Maryland"
+  location         : #"College Park, Maryland"
   employer         : "University of Maryland"
   uri              : # URL
   email            : "jacobaro@umd.edu" 
