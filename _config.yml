@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Armed Conflict and Military Power"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Jacob Aronson"
 description              : &description "Assistant Research Professor. Research interests: civil war, airpower, coercive bargaining, military adaptation, violence against civilians, and peacekeeping."   # Update this with a general description of your site, this is the default if not overridden by a page
